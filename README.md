@@ -58,7 +58,7 @@ A intenção é extender a análise para todo o Brasil.
 
 | [<img src="https://avatars.githubusercontent.com/u/67239257?v=4" width=115><br><sub>Github</sub>](https://github.com/douglassodre) |
 | :---: |
-[<sub>Linkedin</sub>](https://wwww.linkedin.com/in/douglassodre)
+[<sub>Linkedin</sub>](https://www.linkedin.com/in/douglassodre)
 [<sub>Behance</sub>](https://www.behance.net/douglasssodre)
 
 Copyright :copyright: 2022 - Avaliação de Prestadores e Planos de Saúde na Bahia

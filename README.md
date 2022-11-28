@@ -26,7 +26,7 @@
 
 :heavy_check_mark: Tipo de licença: Creative Common Attribution  
 
-:heavy_check_mark: Link: https://dados.gov.br/dataset/produtos-e-prestadores-hospitalares 
+:heavy_check_mark: Link: https://dados.gov.br/dados/conjuntos-dados/produtos-e-prestadores-hospitalares 
 
 <p align="justify">
 Este é um dataset público e pode ser encontrado no Portal Brasileiro de Dados Abertos. Além do próprio dataset, 
